@@ -1,3 +1,5 @@
+# AYUSH SHAH #
+
 # Canteen Ordering System Built Using Django with Payment Integration of Paypal.
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&colorA=%232543d4&colorB=%23f58f00&template=for-the-badge)
@@ -82,7 +84,6 @@ If You are Learner, or Want to test this application. Then After Forking & Cloni
   - ID : 2025
   - PASSWORD : PRATIK@2025
   
-  
-  
-  
 ```
+
+# AYUSH SHAH #
