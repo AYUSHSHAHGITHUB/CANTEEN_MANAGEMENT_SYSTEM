@@ -42,7 +42,7 @@ So Canteen Owners are provided with the Default `Admin Panel that is Provided by
 
 ## Demo Of Application
 To Watch the Live Demo Of Application click on the Below Given Link.
-[View Demo( https://www.linkedin.com/posts/ayush-shah-937937265_hello-connections-i-am-super-excited-to-activity-7287147723378561024-8y_L?utm_source=share&utm_medium=member_android ) ] 🚀.
+[View Demo](https://www.linkedin.com/posts/ayush-shah-937937265_hello-connections-i-am-super-excited-to-activity-7287147723378561024-8y_L?utm_source=share&utm_medium=member_android) 🚀.
 
 ### Here Are Some ScreenShots of The Application
 
